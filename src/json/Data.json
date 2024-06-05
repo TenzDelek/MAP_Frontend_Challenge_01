@@ -1,23 +1,23 @@
 [
     {
-        "title":"mountain",
-        "tag":"Tenzin",
-        "img":"../public/image/sample_01.jpg"
+        "title":"JJKS1",
+        "img":"../public/image/sample_02.jpg",
+        "motto":"wake up"
     },
     {
-        "title":"Tree",
-        "tag":"Delek",
-        "img":"../public/image/sample_01.jpg"
+        "title":"JJKS2",
+        "tag":"Hero",
+        "img":"../public/image/sample_03.jpg",
+        "motto":"slash and burn"
     },
     {
-        "title":"Nature",
-        "tag":"Arvind",
-        "img":"../public/image/sample_01.jpg"
+        "title":"berserker",
+        "img":"../public/image/sample_07.jpg",
+        "motto":"All shall end"
     },
     {
-        "title":"Magic",
-        "tag":"Puvi",
-        "img":"../public/image/sample_01.jpg"
+        "title":"AOT",
+        "img":"../public/image/sample_06.jpg",
+        "motto":"tatake"
     }
-   
 ]
