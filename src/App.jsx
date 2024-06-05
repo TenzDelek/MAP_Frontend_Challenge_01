@@ -1,3 +1,4 @@
+import Card from "./components/cards/Card"
 
 function App() {
 
@@ -5,7 +6,7 @@ function App() {
   return (
     <div className=" h-screen w-full flex items-center justify-center">
     <div className=' font-custom'>
-    hello
+      <Card/>
     </div>
      
     </div>
